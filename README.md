@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @horvathgergo
-- 👀 I’m interested in a bunch of staff like:
+- 👀 I’m interested in stuff like:
      - Home Automation / Home Assistant
      - Programming ESP8266/ESP32 wifi modules
      - Software Development with Python or MicroPython
