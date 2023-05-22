@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @horvathgergo
 - 👀 I’m interested in stuff like:
      - Home Automation / Home Assistant
-     - Programming ESP8266/ESP32 wifi modules
-     - Software Development with Python or MicroPython
+     - Programming ESP8266/ESP32 wifi SOCs
+     - Software and Model Development with Python and C++
      - Custom PCB design with KiCAD
 - 💞️ Soon you can see my projects I'm currently working on
 
